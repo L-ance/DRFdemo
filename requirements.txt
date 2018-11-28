@@ -1,5 +1,5 @@
-Django==1.11.3
+Django==1.11.15
 django-filter==1.10.4
-djangorestframework==3.6.3
+djangorestframework==3.90
 Markdown==2.6.11
 PyMySQL==0.9.2
